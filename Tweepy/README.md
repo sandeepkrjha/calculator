@@ -9,7 +9,8 @@ pip install tweepy
 ```
 you can also visit http://pythoncentral.io/introduction-to-tweepy-twitter-for-python/ for more help.
 
-As shown in the code you need four things.
+As shown in the code you need four things
+
  * Consumer_key
  * Consumer_key_secret
  * access_token
