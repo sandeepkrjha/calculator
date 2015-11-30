@@ -10,15 +10,15 @@ pip install tweepy
 you can also visit http://pythoncentral.io/introduction-to-tweepy-twitter-for-python/ for more help.
 
 As shown in the code you need four things.
- *Consumer_key
- *Consumer_key_secret
- *access_token
- *access_token_secret
+ * Consumer_key
+ * Consumer_key_secret
+ * access_token
+ * access_token_secret
 For these things you need to create an app [here](https://apps.twitter.com/).
 
 Fill the necessary details and you will get consumer_key and consumer_key_secret.
 To get rest of the  two scroll down and you will see **create access tokens** .
-Now you will get all for things. Put them in this code.
+Now you will get all four things. Put them in this code.
 
 ```python
 import tweepy
