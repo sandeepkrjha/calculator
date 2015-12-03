@@ -1,4 +1,5 @@
 import time
+name="sandeep"
 class CaseInsensitiveStr(str):
     def __eq__(self, other):
         return str.__eq__(self.lower(), other.lower())
@@ -38,6 +39,10 @@ while 1:
 		print(">>how are you?")
 	if(a=="what is your name"):
 		print(">>tukto")
+		print(">>what is your name")
+		global name
+		name=CaseInsensitiveStr(input(""))
+		print('welcome ',name)
 	if (a=='i am fine' or a=="fine"):
 		print('>>Good!')
 	if(a=="fine how are you?" or a=="fine how are you" or a=="fine you say" or a=="fine! you say"):
@@ -45,11 +50,18 @@ while 1:
 		time.sleep(0.89)
 		print(">>thanks")
 	if(a=="how are you" or a=="How do you do" or a=="How you doing" or a=="how are you doing"):
-		print(">>I am fine too!")
+		print(">>I am fine!")
 		print(">>thanks")
 	if(a=="whats going on" or a=="whats going on"):
 		print("nothing much...u say?")
-		
+	if(a=="I love you"):
+		print(">>thanks! you are so sweet, ",name)
+		print(">>i love you too! -:*")
+	if(a=="fuck you"):
+		print("you know,  you can't!")
+		print("shall we talk some good thing or I should leave you alone ",name)
+	
+
 
 
 
