@@ -55,12 +55,12 @@ def number_to_name(number):
 def rpsls(player_choice): 
     
     # print a blank line to separate consecutive games
-    print '\n'
+    print ('\n')
     
     
 
     # print out the message for the player's choice
-    print "player chooses ",player_choice
+    print ("player chooses ",player_choice)
 
     # convert the player's choice to player_number using the function name_to_number()
     player_number=name_to_number(player_choice)
@@ -72,14 +72,14 @@ def rpsls(player_choice):
     comp_choice=number_to_name(comp_number)
     
     # print out the message for computer's choice
-    print "computer chooses ",comp_choice
+    print ("computer chooses ",comp_choice)
 
     # compute difference of comp_number and player_number modulo five
     a=(comp_number-player_number)%5
     if a==1 or a==2:
-        print "computer wins"
+        print ("computer wins")
     elif a==3 or a==4:
-        print "player wins" 
+        print ("player wins") 
     
    
 
