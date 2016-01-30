@@ -8,6 +8,12 @@
 ###Though some bugs are there and I am working on that
 
 Here is the UI of calculator-1.0
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ![Image of calculator-1.0](calculator-1.0.png)
 
 Any suggestions are welcome.
