@@ -1,4 +1,6 @@
-##This is a very basic calculator , which can do simple arithmetic operations like addition , substraction ,multipication and division.
+##Calculator-1.0
+
+###This is a very basic calculator , which can do simple arithmetic operations like addition , substraction ,multipication and division.
 
 ###Key-Features:
 * keypress event enabled . Unnecessary input from keyborad not allowed
