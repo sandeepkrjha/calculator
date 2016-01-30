@@ -8,7 +8,7 @@
 ###Though some bugs are there and I am working on that
 
 Here is the UI of calculator-1.0
-![Image of calculator-1.0](Screenshot from 2016-01-30 19:50:05.png)
+![Image of calculator-1.0](calculator-1.0.png)
 
 Any suggestions are welcome.
 
