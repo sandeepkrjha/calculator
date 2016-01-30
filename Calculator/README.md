@@ -1,0 +1,19 @@
+##This is a very basic calculator , which can do simple arithmetic operations like addition , substraction ,multipication and division.
+
+###Key-Features:
+*keypress event enabled . Unnecessary input from keyborad not allowed
+*calculates long long floating/int numbers
+*clearing the screen, deleting one by one is easy
+
+###Though some bugs are there and I am working on that
+
+Here is the UI of calculator-1.0
+![Image of calculator-1.0](Screenshot from 2016-01-30 19:50:05.png)
+
+Any suggestions are welcome.
+
+
+
+
+
+
